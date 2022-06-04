@@ -14,7 +14,7 @@ export interface ConjugationResult {
 
 /**
  * The same has happened to the tenses. Tense is used in their data structure for both
- * simple tenses and compound tenses. It also has the infomration of mood.
+ * simple tenses and compound tenses. It also has the information of mood.
  * From SpanishDict, the tenses of the verb are a bit mixed up. For example,
  * 
  *   presentIndicative = Present, Indicative
